@@ -1,2 +1,2 @@
-# Python-Machine-Learning
-Various machine learning projects using Python
+# Python Machine Learning Projects
+A collection of various machine learning projects written in Python
