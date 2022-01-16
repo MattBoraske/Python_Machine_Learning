@@ -1,7 +1,7 @@
  # Diagnosis of COVID-19 from Chest CT Using Decision Trees
-##Authors:
-###Katie Albert
-###Matt Boraske
+## Authors:
+### Katie Albert
+### Matt Boraske
 
 
 
