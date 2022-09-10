@@ -2,6 +2,7 @@
 A collection of various machine learning projects written in Python.
 
 ## Projects
-Diagnosis of COVID-19 from Chest CT Using Decision Trees
+1. Diagnosis of COVID-19 from Chest CT Using Decision Trees
+2. Modify Image to Consist of N Most Popular Pixel Colors
 
 
