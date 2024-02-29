@@ -3,8 +3,8 @@
 ## Tech Stack
 MattBoraske/Python_Machine_Learning is built on the following main stack:
 
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
 - [PureBasic](https://www.purebasic.com/) – Languages
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
 
@@ -14,8 +14,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 MattBoraske/Python_Machine_Learning is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 - <img width='25' height='25' src='https://img.stackshare.io/service/10734/New_Project__2_.jpg' alt='PureBasic'/> [PureBasic](https://www.purebasic.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
 
@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [MattBoraske/Python_Machine_Learning](https://github.com/MattBoraske/Python_Machine_Learning)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|01/05/24 <br/>Report generated|
+|3<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
