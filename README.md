@@ -1,5 +1,5 @@
 # **Python Machine Learning Projects**
-A collection of various machine learning projects written in Python.
+A collection of various Python machine learning projects.
 
 ## **Projects**
 1. Diagnosis of COVID-19 from Chest CT Using Decision Trees
